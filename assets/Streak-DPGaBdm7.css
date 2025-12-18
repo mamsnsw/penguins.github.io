@@ -1,0 +1,1 @@
+.milestone-container{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:1rem}.milestone-label{display:inline-block;margin:.25rem}.mt-4{margin-top:1rem!important}@keyframes pulse{0%{transform:scale(1)}50%{transform:scale(1.1)}to{transform:scale(1)}}.pulse-animation{animation:pulse 1.5s infinite}.streak-icon-button:hover{transform:scale(1.05)}

@@ -1,0 +1,1 @@
+import{e as a,u as o}from"./index-BIGXeMZu.js";import{h as r}from"./loginregSlice-z2rC4Bqj.js";function u(){const t=new URL(window.location).searchParams.get("code"),e=a(),s=o();return t&&s(r(t)),e("/"),null}export{u as AuthCallback};

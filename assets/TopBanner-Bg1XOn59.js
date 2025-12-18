@@ -1,0 +1,1 @@
+import{e as t,j as e,g as o}from"./index-BIGXeMZu.js";function r(){const s="/imgs/goose_xmas.png",a=t();return e.jsx("div",{className:"top-banner",children:e.jsxs("div",{className:"top-banner-brand",onClick:n=>{n.preventDefault(),a("/")},children:[e.jsx("img",{src:s,alt:"logo",className:"hover-spin"}),o(!0)]})})}export{r as default};
